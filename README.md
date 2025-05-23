@@ -23,7 +23,7 @@ Autenticação é feita com `Node.js`, `Express` e `JWT`.
 
 ## 🖼️ Imagem da tela
 
-![Tela de Login](caminho/para/imagem.png)
+![Tela de Login](https://github.com/Rasilva123/tela_login/blob/main/login.png?raw=true)
 
 ---
 
